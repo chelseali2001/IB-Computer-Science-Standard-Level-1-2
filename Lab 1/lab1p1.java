@@ -1,5 +1,5 @@
 /**
- * Shapes class
+ * lab1p1 class
  * @author Chelsea Li
  */
 class lab1p1 {
